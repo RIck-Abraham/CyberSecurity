@@ -1,2 +1,2 @@
-# CyberSecurity
+# Cybersecurity Policies
 Cybersecurity 
